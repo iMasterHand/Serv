@@ -1,0 +1,186 @@
+---- Minecraft Crash Report ----
+// Would you like a cupcake?
+
+Time: 2025-02-23 07:29:55
+Description: Exception ticking world
+
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because the return value of "java.util.Optional.orElse(Object)" is null
+	at net.mcreator.realmrpgquests.procedures.ShellUseOnTickUpdateProcedure.execute(ShellUseOnTickUpdateProcedure.java:36) ~[realmrpg_quests-0.1.1-forge-1.20.1.jar%23209!/:?] {re:classloading}
+	at net.mcreator.realmrpgquests.block.ShellUseBlock.m_213897_(ShellUseBlock.java:137) ~[realmrpg_quests-0.1.1-forge-1.20.1.jar%23209!/:?] {re:classloading}
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_222963_(BlockBehaviour.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.BlockStateBaseMixin,pl:mixin:APP:galosphere.mixins.json:BlockStateBaseMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.reduce_blockstate_cache_rebuilds.BlockStateBaseMixin,pl:mixin:APP:ferritecore.blockstatecache.mixin.json:BlockStateBaseMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_184112_(ServerLevel.java:680) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:cupboard.mixins.json:ServerAddEntityMixin,pl:mixin:APP:immersive_melodies.mixin.json:ServerWorldMixin,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.faster_structure_location.ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:supplementaries-common.mixins.json:ServerLevelMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinServerWorld,pl:mixin:APP:corgilib.mixins.json:MixinServerLevel,pl:mixin:A}
+	at net.minecraft.world.ticks.LevelTicks.m_193272_(LevelTicks.java:215) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:classloading}
+	at net.minecraft.world.ticks.LevelTicks.m_193225_(LevelTicks.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:296) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:cupboard.mixins.json:ServerAddEntityMixin,pl:mixin:APP:immersive_melodies.mixin.json:ServerWorldMixin,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.faster_structure_location.ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:supplementaries-common.mixins.json:ServerLevelMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinServerWorld,pl:mixin:APP:corgilib.mixins.json:MixinServerLevel,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Suspected Mod: 
+	Realm RPG: Quests & Rewards (realmrpg_quests), Version: 0.1.1
+		at TRANSFORMER/realmrpg_quests@0.1.1/net.mcreator.realmrpgquests.procedures.ShellUseOnTickUpdateProcedure.execute(ShellUseOnTickUpdateProcedure.java:36)
+Stacktrace:
+	at net.mcreator.realmrpgquests.procedures.ShellUseOnTickUpdateProcedure.execute(ShellUseOnTickUpdateProcedure.java:36) ~[realmrpg_quests-0.1.1-forge-1.20.1.jar%23209!/:?] {re:classloading}
+	at net.mcreator.realmrpgquests.block.ShellUseBlock.m_213897_(ShellUseBlock.java:137) ~[realmrpg_quests-0.1.1-forge-1.20.1.jar%23209!/:?] {re:classloading}
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_222963_(BlockBehaviour.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.BlockStateBaseMixin,pl:mixin:APP:galosphere.mixins.json:BlockStateBaseMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.reduce_blockstate_cache_rebuilds.BlockStateBaseMixin,pl:mixin:APP:ferritecore.blockstatecache.mixin.json:BlockStateBaseMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_184112_(ServerLevel.java:680) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:cupboard.mixins.json:ServerAddEntityMixin,pl:mixin:APP:immersive_melodies.mixin.json:ServerWorldMixin,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.faster_structure_location.ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:supplementaries-common.mixins.json:ServerLevelMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinServerWorld,pl:mixin:APP:corgilib.mixins.json:MixinServerLevel,pl:mixin:A}
+	at net.minecraft.world.ticks.LevelTicks.m_193272_(LevelTicks.java:215) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:classloading}
+	at net.minecraft.world.ticks.LevelTicks.m_193225_(LevelTicks.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:296) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:cupboard.mixins.json:ServerAddEntityMixin,pl:mixin:APP:immersive_melodies.mixin.json:ServerWorldMixin,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.faster_structure_location.ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:supplementaries-common.mixins.json:ServerLevelMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinServerWorld,pl:mixin:APP:corgilib.mixins.json:MixinServerLevel,pl:mixin:A}
+-- Affected level --
+Details:
+	All players: 2 total; [ServerPlayer['TheMaster_Hand'/1648, l='ServerLevel[asdas]', x=457.65, y=149.00, z=-262.85], ServerPlayer['Brayannashe26'/495, l='ServerLevel[asdas]', x=460.30, y=150.00, z=-263.20]]
+	Chunk stats: 2209
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (448,144,-263), Section: (at 0,0,9 in 28,9,-17; chunk contains blocks 448,-64,-272 to 463,319,-257), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,-64,-512 to 511,319,-1)
+	Level time: 34828 game time, 34828 day time
+	Level name: asdas
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Level weather: Rain time: 39375 (now: false), thunder time: 7773 (now: false)
+	Known server brands: vanilla, forge
+	Removed feature flags: 
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.20.1
+	Minecraft Version ID: 1.20.1
+	Operating System: Linux (amd64) version 6.5.0-1025-azure
+	Java Version: 17.0.14, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 858554200 bytes (818 MiB) / 2147483648 bytes (2048 MiB) up to 15032385536 bytes (14336 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7990.52
+	Virtual memory used (MB): 4727.15
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx14G
+	Server Running: true
+	Player Count: 2 / 4; [ServerPlayer['TheMaster_Hand'/1648, l='ServerLevel[asdas]', x=457.65, y=149.00, z=-262.85], ServerPlayer['Brayannashe26'/495, l='ServerLevel[asdas]', x=460.30, y=150.00, z=-263.20]]
+	Data Packs: vanilla, mod:forge, mod:saturn (incompatible), mod:uniquedungeons, mod:amendments (incompatible), mod:geckolib, mod:divine_weaponry, mod:realmrpg_demons, mod:illagerinvasion, mod:galosphere (incompatible), mod:map_atlases, mod:dynamiclights, mod:rubidium, mod:modernfix (incompatible), mod:jei, mod:travelersbackpack, mod:yungsapi, mod:mixinextras (incompatible), mod:knightlib (incompatible), mod:bosses_of_mass_destruction, mod:carryon (incompatible), mod:startinv (incompatible), mod:puzzlesaccessapi, mod:paraglider (incompatible), mod:dragonfight (incompatible), mod:cloth_config (incompatible), mod:sound_physics_remastered (incompatible), mod:travelerstitles, mod:supplementaries, mod:geophilic, mod:structure_gel, mod:ascendant_mobs, mod:tenshilib (incompatible), mod:moonlight (incompatible), mod:mixinsquared (incompatible), mod:another_furniture (incompatible), mod:knightquest (incompatible), mod:creativecore, mod:born_in_chaos_v1, mod:reeses_sodium_options (incompatible), mod:ribbits (incompatible), mod:curios (incompatible), mod:gravestone, mod:moreplayermodels (incompatible), mod:cerbons_api, mod:reskillable, mod:mr_dungeons_andtaverns (incompatible), mod:betterchunkloading (incompatible), mod:zombies_reworked, mod:truedarkness, mod:titles, mod:architectury (incompatible), mod:magistuarmory (incompatible), mod:appleskin (incompatible), mod:ferritecore (incompatible), mod:cupboard (incompatible), mod:puzzleslib, mod:enhancedcelestials (incompatible), mod:corgilib, mod:rubidium_extra, mod:immersive_melodies (incompatible), mod:goblins_tyranny, mod:improvedmobs (incompatible), mod:cosmeticarmorreworked, mod:realmrpg_quests, mod:playerrevive, mod:difficult_spawners, mod:drinkbeer (incompatible), mod:xpbook, Supplementaries Generated Pack
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Experimental
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.9+10.0.9+main.dcd20f30
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.5.jar eventbus PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.9.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		saturn-mc1.20.1-0.1.3.jar                         |Saturn                        |saturn                        |0.1.3               |DONE      |Manifest: NOSIGNATURE
+		uniquedungeons-0.70.2-47.2.0.jar                  |Unique Dungeons               |uniquedungeons                |0.70.2              |DONE      |Manifest: NOSIGNATURE
+		amendments-1.20-1.2.8.jar                         |Amendments                    |amendments                    |1.20-1.2.8          |DONE      |Manifest: NOSIGNATURE
+		geckolib-forge-1.20.1-4.4.6.jar                   |GeckoLib 4                    |geckolib                      |4.4.6               |DONE      |Manifest: NOSIGNATURE
+		Divine_Weaponry_v1.7_1.20.1.jar                   |Divine Weaponry               |divine_weaponry               |1.6.0               |DONE      |Manifest: NOSIGNATURE
+		realmrpg_imps_and_demons_0.9.0_forge_1.20.1.jar   |Realm RPG: Imps & Demons      |realmrpg_demons               |0.9.0               |DONE      |Manifest: NOSIGNATURE
+		IllagerInvasion-v8.0.7-1.20.1-Forge.jar           |Illager Invasion              |illagerinvasion               |8.0.7               |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		Galosphere-1.20.1-1.4.1-Forge.jar                 |Galosphere                    |galosphere                    |1.20.1-1.4.1        |DONE      |Manifest: NOSIGNATURE
+		map_atlases-1.20-6.0.7.jar                        |Map Atlases                   |map_atlases                   |1.20-6.0.7          |DONE      |Manifest: NOSIGNATURE
+		dynamiclights-v1.8.3-mc1.17x-1.21x-mod.jar        |Dynamic Lights                |dynamiclights                 |1.8.3+mod           |DONE      |Manifest: NOSIGNATURE
+		rubidium-mc1.20.1-0.7.1a.jar                      |Rubidium                      |rubidium                      |0.7.1a              |DONE      |Manifest: NOSIGNATURE
+		modernfix-forge-5.18.1+mc1.20.1.jar               |ModernFix                     |modernfix                     |5.18.1+mc1.20.1     |DONE      |Manifest: NOSIGNATURE
+		jei-1.20.1-forge-15.3.0.4.jar                     |Just Enough Items             |jei                           |15.3.0.4            |DONE      |Manifest: NOSIGNATURE
+		travelersbackpack-forge-1.20.1-9.1.14.jar         |Traveler's Backpack           |travelersbackpack             |9.1.14              |DONE      |Manifest: NOSIGNATURE
+		YungsApi-1.20-Forge-4.0.5.jar                     |YUNG's API                    |yungsapi                      |1.20-Forge-4.0.5    |DONE      |Manifest: NOSIGNATURE
+		mixinextras-forge-0.3.6.jar                       |MixinExtras                   |mixinextras                   |0.3.6               |DONE      |Manifest: NOSIGNATURE
+		knightlib-forge-1.20.1-1.2.0.jar                  |Knight Lib                    |knightlib                     |1.2.0               |DONE      |Manifest: NOSIGNATURE
+		BOMD-Forge-1.20.1-1.1.2.jar                       |Bosses of Mass Destruction    |bosses_of_mass_destruction    |1.1.2               |DONE      |Manifest: NOSIGNATURE
+		carryon-forge-1.20.1-2.1.2.7.jar                  |Carry On                      |carryon                       |2.1.2.7             |DONE      |Manifest: NOSIGNATURE
+		forge-startinv-1.0.0-1.20.1.jar                   |Start Invulnerability Mod     |startinv                      |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		puzzlesaccessapi-forge-8.0.7.jar                  |Puzzles Access Api            |puzzlesaccessapi              |8.0.7               |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		Paraglider-forge-20.1.3.jar                       |Paraglider                    |paraglider                    |20.1.3              |DONE      |Manifest: NOSIGNATURE
+		dragonfight-1.20.1-4.6.jar                        |dragonfight mod               |dragonfight                   |1.20.1-4.6          |DONE      |Manifest: NOSIGNATURE
+		cloth-config-11.1.118-forge.jar                   |Cloth Config v10 API          |cloth_config                  |11.1.118            |DONE      |Manifest: NOSIGNATURE
+		sound-physics-remastered-forge-1.20.1-1.4.2.jar   |Sound Physics Remastered      |sound_physics_remastered      |1.20.1-1.4.2        |DONE      |Manifest: NOSIGNATURE
+		forge-1.20.1-47.3.7-universal.jar                 |Forge                         |forge                         |47.3.7              |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		TravelersTitles-1.20-Forge-4.0.2.jar              |Traveler's Titles             |travelerstitles               |1.20-Forge-4.0.2    |DONE      |Manifest: NOSIGNATURE
+		supplementaries-1.20-2.8.17.jar                   |Supplementaries               |supplementaries               |1.20-2.8.17         |DONE      |Manifest: NOSIGNATURE
+		Geophilic v3.2 f15-61.jar                         |Geophilic                     |geophilic                     |3.2                 |DONE      |Manifest: NOSIGNATURE
+		structure_gel-1.20.1-2.16.2.jar                   |Structure Gel API             |structure_gel                 |2.16.2              |DONE      |Manifest: NOSIGNATURE
+		server-1.20.1-20230612.114412-srg.jar             |Minecraft                     |minecraft                     |1.20.1              |DONE      |Manifest: NOSIGNATURE
+		ascendant_mobs-1.2.1-forge-1.20.1.jar             |Ascendant Mobs                |ascendant_mobs                |1.2.1               |DONE      |Manifest: NOSIGNATURE
+		tenshilib-1.20.1-1.7.6-forge.jar                  |TenshiLib                     |tenshilib                     |1.20.1-1.7.6        |DONE      |Manifest: NOSIGNATURE
+		moonlight-1.20-2.11.41-forge.jar                  |Moonlight Library             |moonlight                     |1.20-2.11.41        |DONE      |Manifest: NOSIGNATURE
+		mixinsquared-forge-0.1.1.jar                      |MixinSquared                  |mixinsquared                  |0.1.1               |DONE      |Manifest: NOSIGNATURE
+		another_furniture-forge-1.20.1-3.0.1.jar          |Another Furniture             |another_furniture             |1.20.1-3.0.1        |DONE      |Manifest: NOSIGNATURE
+		knightquest-forge-1.20.1-1.8.4.jar                |Knight Quest                  |knightquest                   |1.8.4               |DONE      |Manifest: NOSIGNATURE
+		CreativeCore_FORGE_v2.11.30_mc1.20.1.jar          |CreativeCore                  |creativecore                  |2.11.30             |DONE      |Manifest: NOSIGNATURE
+		born_in_chaos_[Forge]1.20.1_1.3.1.jar             |Born in Chaos                 |born_in_chaos_v1              |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		TextruesRubidiumOptions-1.0.5+mc1.20.1.jar        |TexTrue's Rubidium Options    |reeses_sodium_options         |1.0.5+mc1.20.1      |DONE      |Manifest: NOSIGNATURE
+		Ribbits-1.20.1-Forge-3.0.0.jar                    |Ribbits                       |ribbits                       |1.20.1-Forge-3.0.0  |DONE      |Manifest: NOSIGNATURE
+		curios-forge-5.9.1+1.20.1.jar                     |Curios API                    |curios                        |5.9.1+1.20.1        |DONE      |Manifest: NOSIGNATURE
+		gravestone-forge-1.20.1-1.0.15.jar                |Gravestone Mod                |gravestone                    |1.20.1-1.0.15       |DONE      |Manifest: NOSIGNATURE
+		MorePlayerModels-1.20.1.20240409.jar              |More Player Models            |moreplayermodels              |1.20.1.20240409     |DONE      |Manifest: NOSIGNATURE
+		CerbonsAPI-Forge-1.20.1-1.1.0.jar                 |Cerbons API                   |cerbons_api                   |1.1.0               |DONE      |Manifest: NOSIGNATURE
+		reskillable-2.2.2-1.20.1.jar                      |reskillable                   |reskillable                   |2.2.2-1.20.1        |DONE      |Manifest: NOSIGNATURE
+		dungeons-and-taverns-3.0.3.f[Forge].jar           |Dungeons and Taverns          |mr_dungeons_andtaverns        |3.0.3.f             |DONE      |Manifest: NOSIGNATURE
+		betterchunkloading-1.20.1-4.3.jar                 |betterchunkloading mod        |betterchunkloading            |1.20.1-4.3          |DONE      |Manifest: NOSIGNATURE
+		Zombies_Reworked_1.20.1_1.0.4.jar                 |Zombies Reworked              |zombies_reworked              |1.20.1-1.0.4        |DONE      |Manifest: NOSIGNATURE
+		TrueDarkness-1.20.1_2.2.4_MonarchUpdate.jar       |True Darkness Elementriy      |truedarkness                  |2.2                 |DONE      |Manifest: NOSIGNATURE
+		Titles-1.20.1-3.8.1.jar                           |Titles                        |titles                        |1.20.1-3.8.1        |DONE      |Manifest: NOSIGNATURE
+		architectury-9.2.14-forge.jar                     |Architectury                  |architectury                  |9.2.14              |DONE      |Manifest: NOSIGNATURE
+		[1.20.1-forge]-Epic-Knights-9.8.jar               |Epic Knights Mod              |magistuarmory                 |9.8                 |DONE      |Manifest: NOSIGNATURE
+		appleskin-forge-mc1.20.1-2.5.1.jar                |AppleSkin                     |appleskin                     |2.5.1+mc1.20.1      |DONE      |Manifest: NOSIGNATURE
+		ferritecore-6.0.1-forge.jar                       |Ferrite Core                  |ferritecore                   |6.0.1               |DONE      |Manifest: 41:ce:50:66:d1:a0:05:ce:a1:0e:02:85:9b:46:64:e0:bf:2e:cf:60:30:9a:fe:0c:27:e0:63:66:9a:84:ce:8a
+		cupboard-1.20.1-2.7.jar                           |Cupboard utilities            |cupboard                      |1.20.1-2.7          |DONE      |Manifest: NOSIGNATURE
+		PuzzlesLib-v8.1.25-1.20.1-Forge.jar               |Puzzles Lib                   |puzzleslib                    |8.1.25              |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		Enhanced_Celestials-forge-1.20.1-5.0.0.4.jar      |Enhanced Celestials           |enhancedcelestials            |5.0.0.4             |DONE      |Manifest: NOSIGNATURE
+		CorgiLib-forge-1.20.1-4.0.1.3.jar                 |CorgiLib                      |corgilib                      |4.0.1.3             |DONE      |Manifest: NOSIGNATURE
+		rubidium-extra-0.5.3.1+mc1.20.1-build.110.jar     |Rubidium/Embeddium Extra      |rubidium_extra                |0.5.3.1+mc1.20.1-bui|DONE      |Manifest: NOSIGNATURE
+		immersive_melodies-0.3.0+1.20.1-forge.jar         |Immersive Melodies            |immersive_melodies            |0.3.0+1.20.1        |DONE      |Manifest: NOSIGNATURE
+		goblins_tyranny-1.1.0-forge-1.20.1.jar            |Goblin's Tyranny              |goblins_tyranny               |1.1.0               |DONE      |Manifest: NOSIGNATURE
+		improvedmobs-1.20.1-1.12.4-forge.jar              |Improved Mobs Mod             |improvedmobs                  |1.20.1-1.12.4       |DONE      |Manifest: NOSIGNATURE
+		cosmeticarmorreworked-1.20.1-v1a.jar              |CosmeticArmorReworked         |cosmeticarmorreworked         |1.20.1-v1a          |DONE      |Manifest: 5e:ed:25:99:e4:44:14:c0:dd:89:c1:a9:4c:10:b5:0d:e4:b1:52:50:45:82:13:d8:d0:32:89:67:56:57:01:53
+		realmrpg_quests-0.1.1-forge-1.20.1.jar            |Realm RPG: Quests & Rewards   |realmrpg_quests               |0.1.1               |DONE      |Manifest: NOSIGNATURE
+		PlayerRevive_FORGE_v2.0.25_mc1.20.1.jar           |PlayerRevive                  |playerrevive                  |2.0.25              |DONE      |Manifest: NOSIGNATURE
+		Difficult Spawners 1.1.0 - 1.20.1.jar             |Difficult Spawners            |difficult_spawners            |1.1.0               |DONE      |Manifest: NOSIGNATURE
+		drinkbeer-refill-1.20.1-1.0.4.b.jar               |Drink Beer Refill             |drinkbeer                     |1.0.4.b             |DONE      |Manifest: NOSIGNATURE
+		xptome-1.20.1-2.2.1.jar                           |XP Tome                       |xpbook                        |2.2.1               |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 8b52d604-b9ed-49f1-8792-46a86b506ed9
+	FML: 47.3
+	Forge: net.minecraftforge:47.3.7
