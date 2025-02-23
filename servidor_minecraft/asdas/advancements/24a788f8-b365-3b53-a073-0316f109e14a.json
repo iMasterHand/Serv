@@ -14,6 +14,7 @@
       "minecraft:grove": "2025-02-13 00:41:31 +0000",
       "minecraft:forest": "2025-02-13 00:45:07 +0000",
       "minecraft:ocean": "2025-02-13 00:54:19 +0000",
+      "minecraft:meadow": "2025-02-23 07:58:18 +0000",
       "minecraft:savanna": "2025-02-13 00:51:49 +0000",
       "minecraft:plains": "2025-02-13 00:49:30 +0000"
     },
@@ -375,6 +376,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-23 08:01:09 +0000",
       "minecraft:endermite": "2025-02-23 07:29:44 +0000",
       "minecraft:zombie": "2025-02-13 00:51:59 +0000"
     },
@@ -896,6 +898,18 @@
     },
     "done": true
   },
+  "truedarkness:general_sword_advancement": {
+    "criteria": {
+      "general_sword_advancement_0": "2025-02-23 07:34:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-02-23 07:35:13 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/warlord_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-23 07:37:46 +0000"
@@ -1112,21 +1126,9 @@
     },
     "done": true
   },
-  "paraglider:paraglider": {
-    "criteria": {
-      "paraglider": "2025-02-23 07:41:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-23 07:37:46 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/deku_leaf": {
-    "criteria": {
-      "has_paragliders": "2025-02-23 07:41:55 +0000"
     },
     "done": true
   },
@@ -1160,12 +1162,6 @@
     },
     "done": true
   },
-  "truedarkness:general_sword_advancement": {
-    "criteria": {
-      "general_sword_advancement_0": "2025-02-23 07:34:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-02-23 07:37:46 +0000"
@@ -1193,12 +1189,6 @@
   "knightquest:recipes/misc/path_chestplate": {
     "criteria": {
       "has_leather": "2025-02-23 07:37:46 +0000"
-    },
-    "done": true
-  },
-  "knightquest:knightquest": {
-    "criteria": {
-      "requirement": "2025-02-23 07:35:13 +0000"
     },
     "done": true
   },
@@ -1235,12 +1225,6 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-02-23 07:37:46 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/paraglider": {
-    "criteria": {
-      "has_paragliders": "2025-02-23 07:41:55 +0000"
     },
     "done": true
   },
@@ -1315,6 +1299,216 @@
       "has_gold_ingot": "2025-02-23 07:37:46 +0000"
     },
     "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-02-23 07:41:55 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-02-23 07:41:55 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-02-23 07:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-23 07:53:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver_heavy_axe": {
+    "criteria": {
+      "has_diamond_axe": "2025-02-23 07:53:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver": {
+    "criteria": {
+      "has_diamond_axe": "2025-02-23 07:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-23 07:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-23 07:56:19 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-02-23 07:59:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-02-23 08:01:14 +0000"
+    },
+    "done": true
+  },
+  "uniquedungeons:ancient_note": {
+    "criteria": {
+      "requirement": "2025-02-23 08:01:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_chestplate": {
+    "criteria": {
+      "has_arrow": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_boots": {
+    "criteria": {
+      "has_arrow": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_helmet": {
+    "criteria": {
+      "has_arrow": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/iron_gate": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_leggings": {
+    "criteria": {
+      "has_arrow": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-23 08:01:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_chestplate": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 08:03:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_leggings": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 08:03:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 08:03:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_boots": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 08:03:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 08:03:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_helmet": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 08:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 08:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 08:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 08:03:13 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2025-02-23 08:04:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_5": "2025-02-23 08:07:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

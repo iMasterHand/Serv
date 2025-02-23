@@ -6149,3 +6149,685 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Feb2025 07:50:55.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser is bleeding. TheMaster_Hand, the Chicken Chaser was killed
 [23Feb2025 07:50:55.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayannashe26, the Chicken Chaser is bleeding. Brayannashe26, the Chicken Chaser was killed
 [23Feb2025 07:50:55.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Killed 2 entities]
+[23Feb2025 07:51:01.668] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.2] Corpse Fish'/11, l='ServerLevel[asdas]', x=450.84, y=128.60, z=-245.45] died: [Lv.2] Corpse Fish was killed
+[23Feb2025 07:51:01.670] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.2] Chicken'/14, l='ServerLevel[asdas]', x=420.13, y=159.00, z=-234.92] died: [Lv.2] Chicken was killed
+[23Feb2025 07:51:01.671] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.671] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.2] Chicken'/20, l='ServerLevel[asdas]', x=419.65, y=154.00, z=-225.88] died: [Lv.2] Chicken was killed
+[23Feb2025 07:51:01.672] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.2] Chicken'/21, l='ServerLevel[asdas]', x=407.86, y=163.00, z=-285.50] died: [Lv.2] Chicken was killed
+[23Feb2025 07:51:01.672] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.2] Chicken'/23, l='ServerLevel[asdas]', x=427.90, y=147.00, z=-305.94] died: [Lv.2] Chicken was killed
+[23Feb2025 07:51:01.674] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.2] Chicken'/48, l='ServerLevel[asdas]', x=422.53, y=146.00, z=-317.61] died: [Lv.2] Chicken was killed
+[23Feb2025 07:51:01.675] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 15.0
+[23Feb2025 07:51:01.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Donkey['[Lv.3] Donkey'/90, l='ServerLevel[asdas]', x=530.02, y=117.00, z=-265.84] died: [Lv.3] Donkey was killed
+[23Feb2025 07:51:01.675] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 15.0
+[23Feb2025 07:51:01.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Donkey['[Lv.3] Donkey'/91, l='ServerLevel[asdas]', x=531.65, y=117.00, z=-266.56] died: [Lv.3] Donkey was killed
+[23Feb2025 07:51:01.676] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['[Lv.2] Sheep'/96, l='ServerLevel[asdas]', x=503.47, y=122.00, z=-184.42] died: [Lv.2] Sheep was killed
+[23Feb2025 07:51:01.677] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizzyEntity['[Lv.0] Lizzy'/102, l='ServerLevel[asdas]', x=375.03, y=136.00, z=-346.85] died: [Lv.0] Lizzy was killed
+[23Feb2025 07:51:01.678] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Horse['[Lv.2] Horse'/110, l='ServerLevel[asdas]', x=525.73, y=111.00, z=-175.41] died: [Lv.2] Horse was killed
+[23Feb2025 07:51:01.679] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.679] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['[Lv.2] Sheep'/111, l='ServerLevel[asdas]', x=504.26, y=116.00, z=-166.23] died: [Lv.2] Sheep was killed
+[23Feb2025 07:51:01.679] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 15.0
+[23Feb2025 07:51:01.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Horse['[Lv.3] Horse'/112, l='ServerLevel[asdas]', x=574.66, y=95.00, z=-177.46] died: [Lv.3] Horse was killed
+[23Feb2025 07:51:01.680] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['[Lv.2] Pig'/115, l='ServerLevel[asdas]', x=320.69, y=81.00, z=-387.48] died: [Lv.2] Pig was killed
+[23Feb2025 07:51:01.681] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['[Lv.2] Pig'/116, l='ServerLevel[asdas]', x=326.55, y=122.00, z=-338.51] died: [Lv.2] Pig was killed
+[23Feb2025 07:51:01.682] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.682] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['[Lv.2] Pig'/117, l='ServerLevel[asdas]', x=330.00, y=120.00, z=-341.00] died: [Lv.2] Pig was killed
+[23Feb2025 07:51:01.682] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.683] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['[Lv.2] Pig'/118, l='ServerLevel[asdas]', x=339.69, y=140.00, z=-329.51] died: [Lv.2] Pig was killed
+[23Feb2025 07:51:01.684] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 15.0
+[23Feb2025 07:51:01.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Horse['[Lv.3] Horse'/120, l='ServerLevel[asdas]', x=581.84, y=96.00, z=-195.25] died: [Lv.3] Horse was killed
+[23Feb2025 07:51:01.685] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 15.0
+[23Feb2025 07:51:01.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Horse['[Lv.3] Horse'/121, l='ServerLevel[asdas]', x=583.65, y=95.00, z=-182.44] died: [Lv.3] Horse was killed
+[23Feb2025 07:51:01.686] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/122, l='ServerLevel[asdas]', x=535.25, y=61.94, z=-139.49] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.687] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.687] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/123, l='ServerLevel[asdas]', x=536.59, y=62.69, z=-139.36] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.687] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/124, l='ServerLevel[asdas]', x=536.47, y=62.00, z=-138.75] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.688] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/125, l='ServerLevel[asdas]', x=535.22, y=61.94, z=-138.97] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.689] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.689] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/126, l='ServerLevel[asdas]', x=536.06, y=61.97, z=-139.70] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.689] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pufferfish['[Lv.2] Pufferfish'/127, l='ServerLevel[asdas]', x=526.66, y=62.73, z=-132.52] died: [Lv.2] Pufferfish was killed
+[23Feb2025 07:51:01.690] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pufferfish['[Lv.2] Pufferfish'/128, l='ServerLevel[asdas]', x=524.18, y=53.00, z=-135.67] died: [Lv.2] Pufferfish was killed
+[23Feb2025 07:51:01.691] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 15.0
+[23Feb2025 07:51:01.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizzyEntity['[Lv.3] Lizzy'/129, l='ServerLevel[asdas]', x=469.37, y=136.00, z=-412.89] died: [Lv.3] Lizzy was killed
+[23Feb2025 07:51:01.692] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 20.0
+[23Feb2025 07:51:01.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.4] Chicken'/130, l='ServerLevel[asdas]', x=572.31, y=85.00, z=-386.24] died: [Lv.4] Chicken was killed
+[23Feb2025 07:51:01.692] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 20.0
+[23Feb2025 07:51:01.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.4] Chicken'/131, l='ServerLevel[asdas]', x=573.37, y=87.00, z=-390.07] died: [Lv.4] Chicken was killed
+[23Feb2025 07:51:01.693] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 07:51:01.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['[Lv.1] Sheep'/132, l='ServerLevel[asdas]', x=363.19, y=121.00, z=-127.35] died: [Lv.1] Sheep was killed
+[23Feb2025 07:51:01.694] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['[Lv.2] Pig'/134, l='ServerLevel[asdas]', x=310.00, y=73.00, z=-389.00] died: [Lv.2] Pig was killed
+[23Feb2025 07:51:01.695] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['[Lv.2] Pig'/135, l='ServerLevel[asdas]', x=312.42, y=71.00, z=-395.46] died: [Lv.2] Pig was killed
+[23Feb2025 07:51:01.696] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['[Lv.2] Pig'/136, l='ServerLevel[asdas]', x=316.15, y=73.00, z=-393.46] died: [Lv.2] Pig was killed
+[23Feb2025 07:51:01.697] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 07:51:01.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.1] Chicken'/137, l='ServerLevel[asdas]', x=289.70, y=89.00, z=-343.71] died: [Lv.1] Chicken was killed
+[23Feb2025 07:51:01.698] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 07:51:01.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.1] Chicken'/138, l='ServerLevel[asdas]', x=292.39, y=93.00, z=-353.24] died: [Lv.1] Chicken was killed
+[23Feb2025 07:51:01.698] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 07:51:01.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.1] Chicken'/139, l='ServerLevel[asdas]', x=289.27, y=80.00, z=-364.30] died: [Lv.1] Chicken was killed
+[23Feb2025 07:51:01.699] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 07:51:01.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.1] Chicken'/140, l='ServerLevel[asdas]', x=287.97, y=94.00, z=-350.56] died: [Lv.1] Chicken was killed
+[23Feb2025 07:51:01.700] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 15.0
+[23Feb2025 07:51:01.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Horse['[Lv.3] Horse'/155, l='ServerLevel[asdas]', x=594.90, y=88.00, z=-192.03] died: [Lv.3] Horse was killed
+[23Feb2025 07:51:01.701] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cod['[Lv.2] Cod'/156, l='ServerLevel[asdas]', x=514.25, y=62.02, z=-112.62] died: [Lv.2] Cod was killed
+[23Feb2025 07:51:01.701] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cod['[Lv.2] Cod'/157, l='ServerLevel[asdas]', x=515.99, y=62.76, z=-112.91] died: [Lv.2] Cod was killed
+[23Feb2025 07:51:01.702] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cod['[Lv.2] Cod'/158, l='ServerLevel[asdas]', x=516.12, y=62.76, z=-112.34] died: [Lv.2] Cod was killed
+[23Feb2025 07:51:01.702] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cod['[Lv.2] Cod'/159, l='ServerLevel[asdas]', x=516.25, y=60.92, z=-112.73] died: [Lv.2] Cod was killed
+[23Feb2025 07:51:01.703] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/160, l='ServerLevel[asdas]', x=522.47, y=53.94, z=-106.75] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.704] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/161, l='ServerLevel[asdas]', x=523.08, y=54.00, z=-105.98] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.704] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/162, l='ServerLevel[asdas]', x=522.57, y=54.00, z=-105.87] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.705] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/163, l='ServerLevel[asdas]', x=521.25, y=54.02, z=-105.48] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.706] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/164, l='ServerLevel[asdas]', x=522.25, y=55.26, z=-104.80] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.707] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.707] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['[Lv.2] Tropical Fish'/165, l='ServerLevel[asdas]', x=522.25, y=55.54, z=-105.61] died: [Lv.2] Tropical Fish was killed
+[23Feb2025 07:51:01.707] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 10.0
+[23Feb2025 07:51:01.707] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cod['[Lv.2] Cod'/166, l='ServerLevel[asdas]', x=521.04, y=62.00, z=-111.54] died: [Lv.2] Cod was killed
+[23Feb2025 07:51:01.708] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 15.0
+[23Feb2025 07:51:01.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['[Lv.3] Cow'/167, l='ServerLevel[asdas]', x=473.61, y=135.00, z=-415.50] died: [Lv.3] Cow was killed
+[23Feb2025 07:51:01.709] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 07:51:01.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['[Lv.1] Sheep'/169, l='ServerLevel[asdas]', x=360.26, y=118.00, z=-125.54] died: [Lv.1] Sheep was killed
+[23Feb2025 07:51:01.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizzyEntity['[Lv.0] Lizzy'/287, l='ServerLevel[asdas]', x=435.50, y=131.00, z=-393.00] died: [Lv.0] Lizzy was killed
+[23Feb2025 07:51:01.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizzyEntity['[Lv.0] Lizzy'/435, l='ServerLevel[asdas]', x=342.50, y=144.00, z=-309.50] died: [Lv.0] Lizzy was killed
+[23Feb2025 07:51:01.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizzyEntity['[Lv.0] Lizzy'/513, l='ServerLevel[asdas]', x=371.17, y=131.00, z=-356.97] died: [Lv.0] Lizzy was killed
+[23Feb2025 07:51:01.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizzyEntity['[Lv.0] Lizzy'/755, l='ServerLevel[asdas]', x=384.03, y=152.00, z=-323.29] died: [Lv.0] Lizzy was killed
+[23Feb2025 07:51:01.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizzyEntity['[Lv.0] Lizzy'/1590, l='ServerLevel[asdas]', x=351.50, y=151.00, z=-303.50] died: [Lv.0] Lizzy was killed
+[23Feb2025 07:51:01.712] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 07:51:01.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['[Lv.1] Chicken'/1704, l='ServerLevel[asdas]', x=276.39, y=115.00, z=-296.59] died: [Lv.1] Chicken was killed
+[23Feb2025 07:51:01.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['[Lv.0] Enderman'/3064, l='ServerLevel[asdas]', x=357.95, y=81.00, z=-88.15] died: [Lv.0] Enderman was killed
+[23Feb2025 07:51:01.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['[Lv.0] Enderman'/3438, l='ServerLevel[asdas]', x=514.50, y=124.00, z=-240.03] died: [Lv.0] Enderman was killed
+[23Feb2025 07:51:01.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3486, l='ServerLevel[asdas]', x=453.50, y=138.00, z=-198.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3563, l='ServerLevel[asdas]', x=474.50, y=80.00, z=-194.50] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BloodyGadflyEntity['[Lv.0] Bloody Gadfly'/3585, l='ServerLevel[asdas]', x=435.06, y=154.00, z=-279.50] died: [Lv.0] Bloody Gadfly was killed
+[23Feb2025 07:51:01.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.0] Zombie'/3593, l='ServerLevel[asdas]', x=474.50, y=126.00, z=-265.50] died: [Lv.0] Zombie was killed
+[23Feb2025 07:51:01.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['[Lv.0] Enderman'/3603, l='ServerLevel[asdas]', x=417.07, y=130.00, z=-381.95] died: [Lv.0] Enderman was killed
+[23Feb2025 07:51:01.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFlyEntity['[Lv.0] Corpse Fly'/3635, l='ServerLevel[asdas]', x=429.21, y=151.00, z=-291.79] died: [Lv.0] Corpse Fly was killed
+[23Feb2025 07:51:01.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3645, l='ServerLevel[asdas]', x=407.50, y=68.00, z=-196.50] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3655, l='ServerLevel[asdas]', x=536.53, y=85.00, z=-211.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/3673, l='ServerLevel[asdas]', x=454.16, y=56.54, z=-208.44] died: [Lv.0] Bat was killed
+[23Feb2025 07:51:01.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/3676, l='ServerLevel[asdas]', x=486.25, y=61.10, z=-196.25] died: [Lv.0] Bat was killed
+[23Feb2025 07:51:01.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.0] Corpse Fish'/3699, l='ServerLevel[asdas]', x=427.55, y=57.00, z=-193.88] died: [Lv.0] Corpse Fish was killed
+[23Feb2025 07:51:01.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser was killed
+[23Feb2025 07:51:01.722] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3714, l='ServerLevel[asdas]', x=412.90, y=68.00, z=-201.86] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.0] Zombie'/3722, l='ServerLevel[asdas]', x=456.94, y=83.00, z=-186.28] died: [Lv.0] Zombie was killed
+[23Feb2025 07:51:01.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['[Lv.0] Zombie Villager'/3739, l='ServerLevel[asdas]', x=465.50, y=137.00, z=-330.50] died: [Lv.0] Zombie Villager was killed
+[23Feb2025 07:51:01.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3740, l='ServerLevel[asdas]', x=466.50, y=137.00, z=-329.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3743, l='ServerLevel[asdas]', x=397.02, y=56.00, z=-251.30] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3745, l='ServerLevel[asdas]', x=485.57, y=82.00, z=-183.57] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieBruiserEntity['[Lv.0] Zombie Bruiser'/3756, l='ServerLevel[asdas]', x=523.50, y=103.00, z=-331.50] died: [Lv.0] Zombie Bruiser was killed
+[23Feb2025 07:51:01.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['[Lv.0] Spider'/3759, l='ServerLevel[asdas]', x=430.65, y=143.00, z=-327.17] died: [Lv.0] Spider was killed
+[23Feb2025 07:51:01.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundEntity['[Lv.0] Dread Hound'/3780, l='ServerLevel[asdas]', x=404.50, y=162.00, z=-251.50] died: [Lv.0] Dread Hound was killed
+[23Feb2025 07:51:01.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundEntity['[Lv.0] Dread Hound'/3781, l='ServerLevel[asdas]', x=394.84, y=150.00, z=-232.21] died: [Lv.0] Dread Hound was killed
+[23Feb2025 07:51:01.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundEntity['[Lv.0] Dread Hound'/3782, l='ServerLevel[asdas]', x=400.50, y=162.00, z=-245.50] died: [Lv.0] Dread Hound was killed
+[23Feb2025 07:51:01.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayannashe26, the Chicken Chaser was killed
+[23Feb2025 07:51:01.731] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BarrelZombieEntity['[Lv.0] Barrel Zombie'/3812, l='ServerLevel[asdas]', x=532.50, y=103.00, z=-309.50] died: [Lv.0] Barrel Zombie was killed
+[23Feb2025 07:51:01.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3814, l='ServerLevel[asdas]', x=506.50, y=87.00, z=-162.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3815, l='ServerLevel[asdas]', x=438.50, y=144.00, z=-317.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.0] Corpse Fish'/3821, l='ServerLevel[asdas]', x=462.22, y=61.20, z=-183.45] died: [Lv.0] Corpse Fish was killed
+[23Feb2025 07:51:01.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Warden['[Lv.0] Warden'/3826, l='ServerLevel[asdas]', x=477.57, y=143.54, z=-261.62] died: [Lv.0] Warden was killed
+[23Feb2025 07:51:01.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.0] Zombie'/3850, l='ServerLevel[asdas]', x=407.42, y=139.00, z=-336.60] died: [Lv.0] Zombie was killed
+[23Feb2025 07:51:01.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ChortEntity['[Lv.0] Chort'/3853, l='ServerLevel[asdas]', x=415.50, y=137.00, z=-348.50] died: [Lv.0] Chort was killed
+[23Feb2025 07:51:01.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DecayingZombieEntity['[Lv.0] Decaying Zombie'/3859, l='ServerLevel[asdas]', x=355.65, y=166.00, z=-241.61] died: [Lv.0] Decaying Zombie was killed
+[23Feb2025 07:51:01.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieLumberjackEntity['[Lv.0] Zombie Lumberjack'/3862, l='ServerLevel[asdas]', x=417.50, y=87.00, z=-302.50] died: [Lv.0] Zombie Lumberjack was killed
+[23Feb2025 07:51:01.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3863, l='ServerLevel[asdas]', x=535.50, y=70.00, z=-300.43] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3868, l='ServerLevel[asdas]', x=456.50, y=51.00, z=-215.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.0] Zombie'/3870, l='ServerLevel[asdas]', x=368.50, y=163.00, z=-239.50] died: [Lv.0] Zombie was killed
+[23Feb2025 07:51:01.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3872, l='ServerLevel[asdas]', x=520.63, y=103.00, z=-327.49] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3873, l='ServerLevel[asdas]', x=529.44, y=84.00, z=-192.42] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DecayingZombieEntity['[Lv.0] Decaying Zombie'/3877, l='ServerLevel[asdas]', x=385.50, y=151.00, z=-234.50] died: [Lv.0] Decaying Zombie was killed
+[23Feb2025 07:51:01.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['[Lv.0] Spider'/3880, l='ServerLevel[asdas]', x=472.50, y=31.00, z=-217.50] died: [Lv.0] Spider was killed
+[23Feb2025 07:51:01.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['[Lv.0] Spider'/3881, l='ServerLevel[asdas]', x=463.57, y=28.00, z=-217.94] died: [Lv.0] Spider was killed
+[23Feb2025 07:51:01.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BarrelZombieEntity['[Lv.0] Barrel Zombie'/3882, l='ServerLevel[asdas]', x=534.50, y=63.00, z=-246.50] died: [Lv.0] Barrel Zombie was killed
+[23Feb2025 07:51:01.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3883, l='ServerLevel[asdas]', x=397.49, y=136.00, z=-213.49] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.741] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3885, l='ServerLevel[asdas]', x=516.60, y=62.00, z=-185.48] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.742] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.0] Zombie'/3887, l='ServerLevel[asdas]', x=518.50, y=63.00, z=-183.49] died: [Lv.0] Zombie was killed
+[23Feb2025 07:51:01.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieClownEntity['[Lv.0] Zombie Clown'/3888, l='ServerLevel[asdas]', x=395.56, y=152.00, z=-235.44] died: [Lv.0] Zombie Clown was killed
+[23Feb2025 07:51:01.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3889, l='ServerLevel[asdas]', x=419.08, y=67.00, z=-192.37] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3890, l='ServerLevel[asdas]', x=502.56, y=111.00, z=-349.54] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3891, l='ServerLevel[asdas]', x=526.09, y=103.00, z=-285.59] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3892, l='ServerLevel[asdas]', x=474.46, y=30.00, z=-213.46] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3893, l='ServerLevel[asdas]', x=522.50, y=101.00, z=-308.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RestlessSpiritEntity['[Lv.0] Restless Spirit'/3896, l='ServerLevel[asdas]', x=426.50, y=148.00, z=-300.40] died: [Lv.0] Restless Spirit was killed
+[23Feb2025 07:51:01.747] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DecrepitSkeletonEntity['[Lv.0] Decrepit Skeleton'/3897, l='ServerLevel[asdas]', x=491.50, y=104.00, z=-370.50] died: [Lv.0] Decrepit Skeleton was killed
+[23Feb2025 07:51:01.747] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['[Lv.0] Zombie Villager'/3898, l='ServerLevel[asdas]', x=473.59, y=55.00, z=-218.50] died: [Lv.0] Zombie Villager was killed
+[23Feb2025 07:51:01.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3899, l='ServerLevel[asdas]', x=522.50, y=58.00, z=-227.50] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.0] Corpse Fish'/3902, l='ServerLevel[asdas]', x=473.54, y=59.15, z=-181.50] died: [Lv.0] Corpse Fish was killed
+[23Feb2025 07:51:01.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.0] Corpse Fish'/3903, l='ServerLevel[asdas]', x=478.55, y=61.20, z=-174.12] died: [Lv.0] Corpse Fish was killed
+[23Feb2025 07:51:01.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.0] Corpse Fish'/3904, l='ServerLevel[asdas]', x=476.77, y=53.85, z=-172.34] died: [Lv.0] Corpse Fish was killed
+[23Feb2025 07:51:01.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/3906, l='ServerLevel[asdas]', x=517.46, y=59.02, z=-220.91] died: [Lv.0] Bat was killed
+[23Feb2025 07:51:01.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/3907, l='ServerLevel[asdas]', x=516.07, y=58.84, z=-221.76] died: [Lv.0] Bat was killed
+[23Feb2025 07:51:01.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/3908, l='ServerLevel[asdas]', x=531.79, y=61.15, z=-201.84] died: [Lv.0] Bat was killed
+[23Feb2025 07:51:01.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/3909, l='ServerLevel[asdas]', x=516.80, y=57.07, z=-216.03] died: [Lv.0] Bat was killed
+[23Feb2025 07:51:01.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RestlessSpiritEntity['[Lv.0] Restless Spirit'/3910, l='ServerLevel[asdas]', x=532.53, y=95.00, z=-341.25] died: [Lv.0] Restless Spirit was killed
+[23Feb2025 07:51:01.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3911, l='ServerLevel[asdas]', x=456.69, y=105.00, z=-191.00] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3912, l='ServerLevel[asdas]', x=548.00, y=53.00, z=-291.50] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3913, l='ServerLevel[asdas]', x=449.40, y=25.00, z=-239.56] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3914, l='ServerLevel[asdas]', x=450.48, y=24.00, z=-242.63] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ChortEntity['[Lv.0] Chort'/3917, l='ServerLevel[asdas]', x=420.90, y=49.00, z=-226.87] died: [Lv.0] Chort was killed
+[23Feb2025 07:51:01.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3918, l='ServerLevel[asdas]', x=478.48, y=30.00, z=-209.51] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3919, l='ServerLevel[asdas]', x=471.50, y=31.00, z=-219.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SkeletonThrasherEntity['[Lv.0] Skeleton Thrasher'/3920, l='ServerLevel[asdas]', x=347.53, y=148.00, z=-208.44] died: [Lv.0] Skeleton Thrasher was killed
+[23Feb2025 07:51:01.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFlyEntity['[Lv.0] Corpse Fly'/3921, l='ServerLevel[asdas]', x=471.44, y=85.00, z=-331.49] died: [Lv.0] Corpse Fly was killed
+[23Feb2025 07:51:01.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.0] Zombie'/3922, l='ServerLevel[asdas]', x=408.50, y=107.00, z=-326.50] died: [Lv.0] Zombie was killed
+[23Feb2025 07:51:01.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFlyEntity['[Lv.0] Corpse Fly'/3923, l='ServerLevel[asdas]', x=399.36, y=162.00, z=-257.63] died: [Lv.0] Corpse Fly was killed
+[23Feb2025 07:51:01.758] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 25.0
+[23Feb2025 07:51:01.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['[Lv.5] Sheep'/3924, l='ServerLevel[asdas]', x=699.50, y=88.00, z=-261.07] died: [Lv.5] Sheep was killed
+[23Feb2025 07:51:01.759] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 25.0
+[23Feb2025 07:51:01.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['[Lv.5] Sheep'/3925, l='ServerLevel[asdas]', x=702.55, y=89.00, z=-271.16] died: [Lv.5] Sheep was killed
+[23Feb2025 07:51:01.760] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 25.0
+[23Feb2025 07:51:01.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['[Lv.5] Sheep'/3926, l='ServerLevel[asdas]', x=699.00, y=88.00, z=-271.10] died: [Lv.5] Sheep was killed
+[23Feb2025 07:51:01.760] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 25.0
+[23Feb2025 07:51:01.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['[Lv.5] Pig'/3927, l='ServerLevel[asdas]', x=699.60, y=88.00, z=-266.44] died: [Lv.5] Pig was killed
+[23Feb2025 07:51:01.761] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 25.0
+[23Feb2025 07:51:01.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['[Lv.5] Pig'/3928, l='ServerLevel[asdas]', x=693.59, y=87.00, z=-263.46] died: [Lv.5] Pig was killed
+[23Feb2025 07:51:01.761] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 25.0
+[23Feb2025 07:51:01.762] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['[Lv.5] Sheep'/3929, l='ServerLevel[asdas]', x=698.33, y=89.00, z=-277.47] died: [Lv.5] Sheep was killed
+[23Feb2025 07:51:01.762] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 25.0
+[23Feb2025 07:51:01.762] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['[Lv.5] Pig'/3930, l='ServerLevel[asdas]', x=687.75, y=86.00, z=-268.43] died: [Lv.5] Pig was killed
+[23Feb2025 07:51:01.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3931, l='ServerLevel[asdas]', x=395.50, y=79.00, z=-196.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['[Lv.0] Spider'/3932, l='ServerLevel[asdas]', x=496.46, y=30.00, z=-206.48] died: [Lv.0] Spider was killed
+[23Feb2025 07:51:01.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3933, l='ServerLevel[asdas]', x=498.50, y=106.00, z=-276.50] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.765] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3934, l='ServerLevel[asdas]', x=509.50, y=82.00, z=-221.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.765] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3935, l='ServerLevel[asdas]', x=507.52, y=88.00, z=-225.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['[Lv.0] Creeper'/3936, l='ServerLevel[asdas]', x=509.50, y=82.00, z=-220.50] died: [Lv.0] Creeper was killed
+[23Feb2025 07:51:01.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/3938, l='ServerLevel[asdas]', x=493.26, y=56.97, z=-218.66] died: [Lv.0] Bat was killed
+[23Feb2025 07:51:01.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/3939, l='ServerLevel[asdas]', x=491.75, y=58.30, z=-200.37] died: [Lv.0] Bat was killed
+[23Feb2025 07:51:01.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/3940, l='ServerLevel[asdas]', x=490.61, y=57.48, z=-214.17] died: [Lv.0] Bat was killed
+[23Feb2025 07:51:01.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/3941, l='ServerLevel[asdas]', x=497.10, y=57.25, z=-217.19] died: [Lv.0] Bat was killed
+[23Feb2025 07:51:01.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.0] Zombie'/3942, l='ServerLevel[asdas]', x=451.50, y=78.00, z=-302.50] died: [Lv.0] Zombie was killed
+[23Feb2025 07:51:01.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3943, l='ServerLevel[asdas]', x=532.50, y=51.00, z=-298.50] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/3946, l='ServerLevel[asdas]', x=499.50, y=30.00, z=-206.50] died: [Lv.0] Skeleton was killed
+[23Feb2025 07:51:01.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['[Lv.0] Witch'/3948, l='ServerLevel[asdas]', x=548.79, y=62.02, z=-272.50] died: [Lv.0] Witch was killed
+[23Feb2025 07:51:01.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundEntity['[Lv.0] Dread Hound'/3949, l='ServerLevel[asdas]', x=437.50, y=133.00, z=-371.50] died: [Lv.0] Dread Hound was killed
+[23Feb2025 07:51:01.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SkeletonDemomanEntity['[Lv.0] Skeleton Demoman'/3950, l='ServerLevel[asdas]', x=435.76, y=133.00, z=-369.76] died: [Lv.0] Skeleton Demoman was killed
+[23Feb2025 07:51:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Killed 183 entities]
+[23Feb2025 07:51:05.513] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Squid['[Lv.0] Squid'/4293, l='ServerLevel[asdas]', x=437.66, y=57.96, z=-170.60] died: [Lv.0] Squid was slain by [Lv.0] Glutton Fish
+[23Feb2025 07:51:20.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save asdas
+[23Feb2025 07:51:20.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete asdas
+[23Feb2025 07:51:40.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayannashe26, the Chicken Chaser has reached the goal [Infernal Musketeer]
+[23Feb2025 07:51:45.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/4326, l='ServerLevel[asdas]', x=463.08, y=124.00, z=-348.31] died: [Lv.0] Skeleton was slain by [Lv.0] Dread Hound
+[23Feb2025 07:51:52.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Survival Mode]
+[23Feb2025 07:51:59.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Creative Mode]
+[23Feb2025 07:52:19.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.0] Corpse Fish'/4476, l='ServerLevel[asdas]', x=490.53, y=54.00, z=-206.23] died: [Lv.0] Corpse Fish withered away
+[23Feb2025 07:53:10.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Brayannashe26, the Chicken Chaser: Set own game mode to Survival Mode]
+[23Feb2025 07:53:13.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayannashe26, the Chicken Chaser has made the advancement [Not Today, Thank You]
+[23Feb2025 07:53:13.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser has made the advancement [Take Aim]
+[23Feb2025 07:54:02.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Brayannashe26, the Chicken Chaser: Set own game mode to Creative Mode]
+[23Feb2025 07:55:03.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser has reached the goal [Sky's the Limit]
+[23Feb2025 07:55:15.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.0] Zombie'/4672, l='ServerLevel[asdas]', x=385.96, y=138.00, z=-196.61] died: [Lv.0] Zombie burned to death
+[23Feb2025 07:55:16.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Survival Mode]
+[23Feb2025 07:55:38.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.0] Zombie'/4699, l='ServerLevel[asdas]', x=442.80, y=144.02, z=-261.59] died: [Lv.0] Zombie was shot by Brayannashe26, the Chicken Chaser
+[23Feb2025 07:56:03.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Creative Mode]
+[23Feb2025 07:56:08.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Removed 15 item(s) from player TheMaster_Hand, the Chicken Chaser]
+[23Feb2025 07:56:17.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Survival Mode]
+[23Feb2025 07:56:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser has made the advancement [Not Today, Thank You]
+[23Feb2025 07:56:20.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save asdas
+[23Feb2025 07:56:20.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete asdas
+[23Feb2025 07:56:37.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser is bleeding. TheMaster_Hand, the Chicken Chaser was shot by Brayannashe26, the Chicken Chaser
+[23Feb2025 07:57:22.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Applied effect Saturation to 2 targets]
+[23Feb2025 07:57:38.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Creative Mode]
+[23Feb2025 07:58:01.360] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['[Lv.0] Ravager'/5415, l='ServerLevel[asdas]', x=430.53, y=155.00, z=-275.44] died: [Lv.0] Ravager was slain by Brayannashe26, the Chicken Chaser
+[23Feb2025 07:58:11.615] [Worker-Main-3/DEBUG] [ModernFix/]: Structure paraglider:hateno_village_goddess_statue is being run through DFU (hash 6c6bf1914715fd8340b94273020153ebba7a376424b524b13652b067c0faae2c), this will cause launch time delays
+[23Feb2025 07:58:11.615] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[23Feb2025 07:58:12.440] [Worker-Main-3/DEBUG] [ModernFix/]: Structure paraglider:plains_village_horned_statue is being run through DFU (hash f0b72afd4fd293539628e652d283c1b4ebcb611213be8050bf4303387f14e335), this will cause launch time delays
+[23Feb2025 07:58:12.501] [Worker-Main-3/DEBUG] [ModernFix/]: Structure paraglider:horned_statue/yes is being run through DFU (hash 06d19a24ee4d6fde5eacf1628fed3f0c9fe3fa905c08bc7d260e3941a42a47d7), this will cause launch time delays
+[23Feb2025 07:58:12.508] [Worker-Main-3/DEBUG] [ModernFix/]: Structure paraglider:horned_statue/no is being run through DFU (hash 98d9d2d193d330792a784759140d77315dafdf1286fa46978534267f8e25ec91), this will cause launch time delays
+[23Feb2025 07:58:13.172] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_center1 is being run through DFU (hash afc333fa476ea8904bdb895dac8d2d2103944401323fd2c9cdee523309acc7e7), this will cause launch time delays
+[23Feb2025 07:58:13.176] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village_swamp/swamp_village_center1 is being run through DFU (hash 5351220708eddd1288000c90fdb74d3f668bea82e70081bf414971fdbbf5f87d), this will cause launch time delays
+[23Feb2025 07:58:13.185] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 1653 ms
+[23Feb2025 07:58:15.421] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:mangrove_witch_hut/mangrove_witch_hut_3 is being run through DFU (hash acd8340f7628b8f195c1297e8e7c16413eb571452989f8a14f8dcb953ffaef55), this will cause launch time delays
+[23Feb2025 07:58:15.561] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[23Feb2025 07:58:15.604] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[23Feb2025 07:58:15.605] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[23Feb2025 07:58:15.605] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[23Feb2025 07:58:15.606] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[23Feb2025 07:58:15.623] [Worker-Main-2/DEBUG] [ModernFix/]: Structure paraglider:tarrey_town_goddess_statue is being run through DFU (hash b0551f1d7e9f7bb8632ba90ab2954980222fc804666013637cc242afd477fb32), this will cause launch time delays
+[23Feb2025 07:58:15.633] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[23Feb2025 07:58:15.671] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[23Feb2025 07:58:16.120] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[23Feb2025 07:58:16.924] [Worker-Main-2/DEBUG] [mixin/]: Mixing allocations.do_nothing.VillagerGoalPackagesMixin from saturn.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[23Feb2025 07:58:17.156] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[23Feb2025 07:58:18.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Teleported TheMaster_Hand, the Chicken Chaser to -351.500000, 156.000000, 784.500000]
+[23Feb2025 07:58:18.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3026ms or 60 ticks behind
+[23Feb2025 07:58:18.523] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[23Feb2025 07:58:18.547] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[23Feb2025 07:58:18.573] [Worker-Main-2/DEBUG] [ModernFix/]: Structure illagerinvasion:labyrinth/tower is being run through DFU (hash 6e718f1da79a822e68c7d0887750456f71e1aa8479f3bbd21657482676120827), this will cause launch time delays
+[23Feb2025 07:58:18.803] [Worker-Main-3/DEBUG] [ModernFix/]: Structure illagerinvasion:illusioner_tower/tower_2 is being run through DFU (hash 31aaa396146b95a2434692be5d116c88e645ab824e241a9a46869b29590ea570), this will cause launch time delays
+[23Feb2025 07:58:19.428] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[23Feb2025 07:58:19.428] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[23Feb2025 07:58:19.455] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[23Feb2025 07:58:19.471] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[23Feb2025 07:58:19.471] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[23Feb2025 07:58:30.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Teleported Brayannashe26, the Chicken Chaser to TheMaster_Hand, the Chicken Chaser]
+[23Feb2025 07:58:33.583] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[23Feb2025 07:58:33.902] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[23Feb2025 07:58:33.903] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[23Feb2025 07:58:33.903] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[23Feb2025 07:58:33.904] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[23Feb2025 07:58:45.019] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_10b is being run through DFU (hash 8e67e0978c41562d9d58e02f2f6b0048e2847205ca5eb41073df846c9fb59d68), this will cause launch time delays
+[23Feb2025 07:58:47.794] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[23Feb2025 07:58:47.795] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[23Feb2025 07:58:47.795] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[23Feb2025 07:58:47.796] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[23Feb2025 07:58:47.796] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[23Feb2025 07:58:47.796] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[23Feb2025 07:58:47.797] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[23Feb2025 07:58:48.216] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 75.0
+[23Feb2025 07:58:48.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.15] Skeleton'/5541, l='ServerLevel[asdas]', x=-311.30, y=-2.00, z=778.30] died: [Lv.15] Skeleton was slain by [Lv.15] Dread Hound
+[23Feb2025 07:58:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayannashe26, the Chicken Chaser has made the advancement [Grave Ravager]
+[23Feb2025 07:58:57.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set the world spawn point to -346, 116, 779 [0.0]]
+[23Feb2025 07:58:57.688] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_20 is being run through DFU (hash a1156944d96aa3c0ef77c50d062c271c0b6c97008c2a5b0da9a15c23ebf70a0d), this will cause launch time delays
+[23Feb2025 07:58:58.314] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 75.0
+[23Feb2025 07:58:58.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.15] Skeleton'/5728, l='ServerLevel[asdas]', x=-328.23, y=-7.00, z=782.65] died: [Lv.15] Skeleton was slain by [Lv.15] Dread Hound
+[23Feb2025 07:59:07.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser has made the advancement [Grave Ravager]
+[23Feb2025 07:59:08.962] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 80.0
+[23Feb2025 07:59:08.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.16] Skeleton'/5734, l='ServerLevel[asdas]', x=-364.34, y=43.00, z=814.98] died: [Lv.16] Skeleton was slain by [Lv.16] Dread Hound
+[23Feb2025 07:59:10.611] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 75.0
+[23Feb2025 07:59:10.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.15] Skeleton'/5727, l='ServerLevel[asdas]', x=-326.62, y=-8.00, z=777.52] died: [Lv.15] Skeleton was slain by [Lv.15] Dread Hound
+[23Feb2025 07:59:13.261] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 75.0
+[23Feb2025 07:59:13.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DecrepitSkeletonEntity['[Lv.15] Decrepit Skeleton'/5813, l='ServerLevel[asdas]', x=-330.89, y=-6.00, z=797.44] died: [Lv.15] Decrepit Skeleton was slain by [Lv.15] Dread Hound
+[23Feb2025 07:59:18.511] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 75.0
+[23Feb2025 07:59:18.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DecrepitSkeletonEntity['[Lv.15] Decrepit Skeleton'/5593, l='ServerLevel[asdas]', x=-335.73, y=-5.98, z=797.00] died: [Lv.15] Decrepit Skeleton was slain by [Lv.15] Dread Hound
+[23Feb2025 07:59:22.814] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 80.0
+[23Feb2025 07:59:22.814] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.16] Skeleton'/5552, l='ServerLevel[asdas]', x=-336.70, y=-8.00, z=790.60] died: [Lv.16] Skeleton was slain by [Lv.15] Dread Hound
+[23Feb2025 07:59:26.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/5901, l='ServerLevel[asdas]', x=-376.32, y=46.00, z=822.32] died: [Lv.0] Skeleton was slain by [Lv.16] Dread Hound
+[23Feb2025 07:59:28.509] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 75.0
+[23Feb2025 07:59:28.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundEntity['[Lv.15] Dread Hound'/5561, l='ServerLevel[asdas]', x=-339.16, y=-8.00, z=796.55] died: [Lv.15] Dread Hound was slain by [Lv.16] Skeleton
+[23Feb2025 07:59:30.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.0] Bat'/5827, l='ServerLevel[asdas]', x=-371.13, y=32.76, z=850.25] died: [Lv.0] Bat tried to swim in lava
+[23Feb2025 07:59:30.264] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 80.0
+[23Feb2025 07:59:30.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.16] Skeleton'/5553, l='ServerLevel[asdas]', x=-340.70, y=-8.00, z=795.48] died: [Lv.16] Skeleton was slain by [Lv.15] Dread Hound
+[23Feb2025 07:59:35.663] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 75.0
+[23Feb2025 07:59:35.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundEntity['[Lv.15] Dread Hound'/5560, l='ServerLevel[asdas]', x=-347.60, y=-6.00, z=797.48] died: [Lv.15] Dread Hound was slain by [Lv.16] Skeleton
+[23Feb2025 07:59:38.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Applied effect Bad Omen to TheMaster_Hand, the Chicken Chaser]
+[23Feb2025 07:59:49.800] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_center2 is being run through DFU (hash 72b8e2336516c2d8ecf50dee350529a3a726076f23e6180ceec094c3112e764e), this will cause launch time delays
+[23Feb2025 07:59:49.804] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village_swamp/swamp_village_center2 is being run through DFU (hash 0bcaec54346f75c21636b5deeea39a078cd280ebf4067be7612a0eb19adc1fd6), this will cause launch time delays
+[23Feb2025 07:59:51.731] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[23Feb2025 07:59:51.731] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[23Feb2025 07:59:51.731] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[23Feb2025 07:59:51.731] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[23Feb2025 08:00:00.798] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:00:13.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Provoker['[Lv.0] Provoker'/5992, l='ServerLevel[asdas]', x=-332.32, y=112.00, z=756.94] died: [Lv.0] Provoker was slain by [Lv.15] Iron Golem
+[23Feb2025 08:00:15.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/5986, l='ServerLevel[asdas]', x=-337.50, y=113.36, z=754.51] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:00:17.305] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_18 is being run through DFU (hash 0ce91ed86927b623c2492e3f93af5b7bd662b0f4eeeea40498941e43f20b5f79), this will cause launch time delays
+[23Feb2025 08:00:20.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Marauder['[Lv.0] Marauder'/5994, l='ServerLevel[asdas]', x=-332.51, y=111.00, z=748.85] died: [Lv.0] Marauder was slain by [Lv.15] Iron Golem
+[23Feb2025 08:00:24.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Basher['[Lv.0] Basher'/5991, l='ServerLevel[asdas]', x=-328.58, y=110.30, z=747.55] died: [Lv.0] Basher was slain by [Lv.15] Iron Golem
+[23Feb2025 08:00:27.213] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/5989, l='ServerLevel[asdas]', x=-336.45, y=112.00, z=750.52] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:00:28.171] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_14 is being run through DFU (hash 7931cf496ac4fdcbddb722afef2487c54c5bac033b0d2ae54dcc7df5bd022a5d), this will cause launch time delays
+[23Feb2025 08:00:29.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['[Lv.0] Vindicator'/5984, l='ServerLevel[asdas]', x=-333.40, y=111.42, z=747.70] died: [Lv.0] Vindicator was slain by [Lv.15] Iron Golem
+[23Feb2025 08:00:32.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Archivist['[Lv.0] Archivist'/5993, l='ServerLevel[asdas]', x=-333.46, y=112.00, z=754.79] died: [Lv.0] Archivist was slain by [Lv.15] Iron Golem
+[23Feb2025 08:00:38.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/5987, l='ServerLevel[asdas]', x=-343.72, y=114.00, z=751.65] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:05.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['[Lv.15] Villager'/5518, l='ServerLevel[asdas]', x=-332.86, y=115.00, z=791.40] died, message: '[Lv.15] Villager was shot by [Lv.0] Pillager'
+[23Feb2025 08:01:05.918] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 75.0
+[23Feb2025 08:01:05.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['[Lv.15] Villager'/5518, l='ServerLevel[asdas]', x=-332.86, y=115.00, z=791.40] died: [Lv.15] Villager was shot by [Lv.0] Pillager
+[23Feb2025 08:01:09.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/5988, l='ServerLevel[asdas]', x=-324.01, y=116.00, z=787.99] died: [Lv.0] Pillager was slain by TheMaster_Hand, the Chicken Chaser
+[23Feb2025 08:01:10.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/5985, l='ServerLevel[asdas]', x=-332.92, y=114.00, z=784.96] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:12.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/5990, l='ServerLevel[asdas]', x=-329.86, y=114.00, z=785.01] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:19.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/7083, l='ServerLevel[asdas]', x=-307.30, y=48.00, z=859.56] died: [Lv.0] Skeleton was slain by [Lv.0] Dread Hound
+[23Feb2025 08:01:23.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save asdas
+[23Feb2025 08:01:23.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete asdas
+[23Feb2025 08:01:36.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['[Lv.0] Vindicator'/7188, l='ServerLevel[asdas]', x=-350.50, y=119.00, z=818.07] died: [Lv.0] Vindicator was slain
+[23Feb2025 08:01:37.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Basher['[Lv.0] Basher'/7195, l='ServerLevel[asdas]', x=-348.42, y=119.00, z=818.15] died: [Lv.0] Basher was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:38.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['[Lv.0] Vindicator'/7187, l='ServerLevel[asdas]', x=-347.02, y=119.00, z=820.28] died: [Lv.0] Vindicator was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:41.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Basher['[Lv.0] Basher'/7196, l='ServerLevel[asdas]', x=-344.33, y=119.00, z=819.32] died: [Lv.0] Basher was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:42.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Provoker['[Lv.0] Provoker'/7197, l='ServerLevel[asdas]', x=-340.57, y=118.30, z=819.19] died: [Lv.0] Provoker was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:44.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/7190, l='ServerLevel[asdas]', x=-345.33, y=119.00, z=821.56] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:45.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Marauder['[Lv.0] Marauder'/7198, l='ServerLevel[asdas]', x=-345.56, y=119.00, z=820.70] died: [Lv.0] Marauder was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:46.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/7193, l='ServerLevel[asdas]', x=-341.70, y=118.42, z=818.32] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:46.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/7191, l='ServerLevel[asdas]', x=-344.32, y=119.00, z=823.28] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:47.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/7192, l='ServerLevel[asdas]', x=-342.83, y=119.00, z=819.08] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:47.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/7194, l='ServerLevel[asdas]', x=-344.56, y=119.00, z=820.44] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:01:48.813] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['[Lv.0] Vindicator'/7189, l='ServerLevel[asdas]', x=-344.11, y=120.04, z=822.18] died: [Lv.0] Vindicator was slain
+[23Feb2025 08:01:55.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity FirelightNotDespawnEntity['[Lv.0] Firelight'/7498, l='ServerLevel[asdas]', x=-335.19, y=117.00, z=788.57] died: [Lv.0] Firelight was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:03.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DoorKnightNotDespawnEntity['[Lv.0] Door Knight'/7513, l='ServerLevel[asdas]', x=-340.58, y=116.00, z=780.45] died: [Lv.0] Door Knight was slain by TheMaster_Hand, the Chicken Chaser
+[23Feb2025 08:02:04.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity FirelightNotDespawnEntity['[Lv.0] Firelight'/7496, l='ServerLevel[asdas]', x=-352.69, y=117.18, z=779.48] died: [Lv.0] Firelight was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:08.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MaggotEntity['[Lv.0] Corpse Maggot'/7615, l='ServerLevel[asdas]', x=-339.50, y=117.00, z=780.50] died: [Lv.0] Corpse Maggot suffocated in a wall
+[23Feb2025 08:02:09.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['[Lv.0] Ravager'/7579, l='ServerLevel[asdas]', x=-338.35, y=118.14, z=832.99] died: [Lv.0] Ravager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:10.413] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/7578, l='ServerLevel[asdas]', x=-337.20, y=118.00, z=828.13] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:11.513] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity FirelightNotDespawnEntity['[Lv.0] Firelight'/7497, l='ServerLevel[asdas]', x=-352.50, y=120.00, z=790.75] died: [Lv.0] Firelight was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:12.814] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Illusioner['[Lv.0] Illusioner'/7581, l='ServerLevel[asdas]', x=-327.95, y=116.00, z=829.82] died: [Lv.0] Illusioner was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:12.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['[Lv.0] Vindicator'/7575, l='ServerLevel[asdas]', x=-338.49, y=118.00, z=827.78] died: [Lv.0] Vindicator was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:14.020] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Alchemist['[Lv.0] Alchemist'/7585, l='ServerLevel[asdas]', x=-333.21, y=118.00, z=828.72] died: [Lv.0] Alchemist was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:20.213] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Inquisitor['[Lv.0] Inquisitor'/7584, l='ServerLevel[asdas]', x=-335.52, y=118.00, z=824.33] died: [Lv.0] Inquisitor was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:22.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/7576, l='ServerLevel[asdas]', x=-336.50, y=118.00, z=817.82] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:26.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Archivist['[Lv.0] Archivist'/7582, l='ServerLevel[asdas]', x=-330.48, y=116.29, z=831.49] died: [Lv.0] Archivist was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:39.411] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[23Feb2025 08:02:52.465] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DoorKnightNotDespawnEntity['[Lv.0] Door Knight'/8060, l='ServerLevel[asdas]', x=-345.01, y=114.00, z=753.45] died: [Lv.0] Door Knight was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:53.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Basher['[Lv.0] Basher'/7580, l='ServerLevel[asdas]', x=-340.49, y=114.00, z=755.52] died: [Lv.0] Basher was slain by [Lv.15] Iron Golem
+[23Feb2025 08:02:56.066] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['[Lv.0] Vex'/8229, l='ServerLevel[asdas]', x=-394.48, y=142.87, z=771.06] died: [Lv.0] Vex starved to death
+[23Feb2025 08:03:01.413] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MaggotEntity['[Lv.0] Corpse Maggot'/8447, l='ServerLevel[asdas]', x=-346.25, y=114.00, z=753.80] died: [Lv.0] Corpse Maggot was slain by [Lv.15] Iron Golem
+[23Feb2025 08:03:03.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MaggotEntity['[Lv.0] Corpse Maggot'/8448, l='ServerLevel[asdas]', x=-345.32, y=114.00, z=753.53] died: [Lv.0] Corpse Maggot was slain by [Lv.15] Iron Golem
+[23Feb2025 08:03:08.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['[Lv.0] Vindicator'/7574, l='ServerLevel[asdas]', x=-338.65, y=114.00, z=759.54] died: [Lv.0] Vindicator was slain
+[23Feb2025 08:03:13.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Panda['[Lv.0] Panda'/8291, l='ServerLevel[asdas]', x=-383.63, y=131.00, z=841.45] died: [Lv.0] Panda was slain by TheMaster_Hand, the Chicken Chaser
+[23Feb2025 08:03:14.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMaster_Hand lost connection: Disconnected
+[23Feb2025 08:03:14.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser left the game
+[23Feb2025 08:03:16.915] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 75.0
+[23Feb2025 08:03:16.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['[Lv.15] Iron Golem'/5811, l='ServerLevel[asdas]', x=-322.77, y=110.00, z=831.17] died: [Lv.15] Iron Golem was shot by [Lv.0] Pillager
+[23Feb2025 08:03:20.212] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 28 messages to dispatch.
+[23Feb2025 08:03:20.223] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[23Feb2025 08:03:20.267] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[23Feb2025 08:03:20.322] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[23Feb2025 08:03:20.367] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[23Feb2025 08:03:20.418] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[23Feb2025 08:03:20.468] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[23Feb2025 08:03:20.520] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[23Feb2025 08:03:20.520] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[23Feb2025 08:03:20.520] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[23Feb2025 08:03:20.520] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [saturn, uniquedungeons, amendments, geckolib, divine_weaponry, realmrpg_demons, illagerinvasion, galosphere, map_atlases, dynamiclights, rubidium, sodium, modernfix, jei, travelersbackpack, yungsapi, mixinextras, knightlib, bosses_of_mass_destruction, carryon, startinv, puzzlesaccessapi, paraglider, dragonfight, cloth_config, sound_physics_remastered, forge, travelerstitles, supplementaries, geophilic, structure_gel, minecraft, ascendant_mobs, tenshilib, moonlight, mixinsquared, another_furniture, knightquest, creativecore, born_in_chaos_v1, reeses_sodium_options, ribbits, curios, gravestone, moreplayermodels, cerbons_api, reskillable, mr_dungeons_andtaverns, betterchunkloading, zombies_reworked, truedarkness, titles, architectury, magistuarmory, appleskin, ferritecore, cupboard, puzzleslib, enhancedcelestials, corgilib, rubidium_extra, immersive_melodies, goblins_tyranny, improvedmobs, cosmeticarmorreworked, realmrpg_quests, playerrevive, difficult_spawners, drinkbeer, xpbook]
+[23Feb2025 08:03:20.520] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[23Feb2025 08:03:20.520] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'improvedmobs:packets' : Version test of 'v1.0' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'difficult_spawners:difficult_spawners' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'reskillable:main_channel' : Version test of '1.0' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_im:main' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uniquedungeons:network' : Version test of '1.0' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'drinkbeer:main' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ribbits:messages' : Version test of '1.0' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_quests:realmrpg_quests' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_demons:realmrpg_demons' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ascendant_mobs:ascendant_mobs' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'goblins_tyranny:goblins_tyranny' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'galosphere:network' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'divine_weaponry:divine_weaponry' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tenshilib:packets' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moreplayermodels:packets' : Version test of 'mpm' from client : ACCEPTED
+[23Feb2025 08:03:20.521] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[23Feb2025 08:03:20.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'map_atlases:channel' : Version test of '0' from client : ACCEPTED
+[23Feb2025 08:03:20.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'titles:main' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'truedarkness:truedarkness' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[23Feb2025 08:03:20.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[23Feb2025 08:03:20.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[23Feb2025 08:03:20.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[23Feb2025 08:03:20.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[23Feb2025 08:03:20.522] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[23Feb2025 08:03:20.566] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[23Feb2025 08:03:20.568] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[23Feb2025 08:03:20.568] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:20.568] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:20.612] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[23Feb2025 08:03:20.613] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:20.613] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:20.617] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[23Feb2025 08:03:20.666] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[23Feb2025 08:03:20.717] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[23Feb2025 08:03:20.769] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[23Feb2025 08:03:20.816] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[23Feb2025 08:03:20.867] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[23Feb2025 08:03:20.918] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[23Feb2025 08:03:20.966] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[23Feb2025 08:03:20.999] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[23Feb2025 08:03:20.999] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:20.999] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.018] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[23Feb2025 08:03:21.018] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[23Feb2025 08:03:21.018] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.018] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.018] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[23Feb2025 08:03:21.018] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.018] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.066] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[23Feb2025 08:03:21.117] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[23Feb2025 08:03:21.168] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[23Feb2025 08:03:21.195] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[23Feb2025 08:03:21.195] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.195] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.195] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[23Feb2025 08:03:21.195] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.195] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.195] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[23Feb2025 08:03:21.195] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.195] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.196] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[23Feb2025 08:03:21.196] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.196] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.196] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[23Feb2025 08:03:21.196] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.196] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.200] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[23Feb2025 08:03:21.200] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.200] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.216] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[23Feb2025 08:03:21.238] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[23Feb2025 08:03:21.238] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.238] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.238] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[23Feb2025 08:03:21.238] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.238] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.268] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 21
+[23Feb2025 08:03:21.286] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[23Feb2025 08:03:21.286] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.286] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.286] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[23Feb2025 08:03:21.286] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.286] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.317] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config illagerinvasion-server.toml' to 'fml:handshake' sequence 22
+[23Feb2025 08:03:21.317] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[23Feb2025 08:03:21.317] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.317] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.364] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[23Feb2025 08:03:21.364] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.364] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.368] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 23
+[23Feb2025 08:03:21.409] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[23Feb2025 08:03:21.409] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.409] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.417] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 24
+[23Feb2025 08:03:21.467] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config xptome-server.toml' to 'fml:handshake' sequence 25
+[23Feb2025 08:03:21.516] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 26
+[23Feb2025 08:03:21.543] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[23Feb2025 08:03:21.544] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.544] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.544] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[23Feb2025 08:03:21.544] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.544] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.568] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 27
+[23Feb2025 08:03:21.568] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[23Feb2025 08:03:21.568] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.568] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.613] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[23Feb2025 08:03:21.613] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.613] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.706] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[23Feb2025 08:03:21.706] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.706] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.706] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[23Feb2025 08:03:21.706] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.706] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.761] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[23Feb2025 08:03:21.761] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.761] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[23Feb2025 08:03:21.899] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Feb2025 08:03:21.899] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Feb2025 08:03:21.917] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[23Feb2025 08:03:21.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMaster_Hand[/127.226.0.24:33243] logged in with entity id 8574 at (-383.82259602617967, 131.0, 839.9908899671254)
+[23Feb2025 08:03:21.979] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@576ebdee into net.minecraft.network.Connection@740ab065
+[23Feb2025 08:03:21.980] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 191 classes
+[23Feb2025 08:03:21.980] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[23Feb2025 08:03:21.980] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[23Feb2025 08:03:21.980] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[23Feb2025 08:03:21.980] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[23Feb2025 08:03:21.980] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[23Feb2025 08:03:21.980] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[23Feb2025 08:03:21.980] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[23Feb2025 08:03:21.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser joined the game
+[23Feb2025 08:03:32.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundNotDespawnEntity['[Lv.0] Dread Hound'/8502, l='ServerLevel[asdas]', x=-381.50, y=129.00, z=841.50] died: [Lv.0] Dread Hound was slain by TheMaster_Hand, the Chicken Chaser
+[23Feb2025 08:03:38.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MaggotEntity['[Lv.0] Corpse Maggot'/7616, l='ServerLevel[asdas]', x=-332.85, y=114.00, z=778.51] died: [Lv.0] Corpse Maggot was slain by [Lv.15] Iron Golem
+[23Feb2025 08:03:39.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundNotDespawnEntity['[Lv.0] Dread Hound'/8584, l='ServerLevel[asdas]', x=-390.65, y=130.00, z=841.50] died: [Lv.0] Dread Hound was slain by TheMaster_Hand, the Chicken Chaser
+[23Feb2025 08:03:40.022] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:03:40.023] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[23Feb2025 08:03:40.023] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:03:40.024] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[23Feb2025 08:03:40.024] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:03:40.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundNotDespawnEntity['[Lv.0] Dread Hound'/8629, l='ServerLevel[asdas]', x=-394.65, y=129.00, z=842.30] died: [Lv.0] Dread Hound was slain by TheMaster_Hand, the Chicken Chaser
+[23Feb2025 08:03:41.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundNotDespawnEntity['[Lv.0] Dread Hound'/8628, l='ServerLevel[asdas]', x=-392.38, y=129.00, z=843.21] died: [Lv.0] Dread Hound was slain by TheMaster_Hand, the Chicken Chaser
+[23Feb2025 08:03:42.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundNotDespawnEntity['[Lv.0] Dread Hound'/8585, l='ServerLevel[asdas]', x=-389.79, y=129.00, z=838.63] died: [Lv.0] Dread Hound was slain by TheMaster_Hand, the Chicken Chaser
+[23Feb2025 08:03:42.884] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[23Feb2025 08:03:42.885] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[23Feb2025 08:03:42.886] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[23Feb2025 08:03:42.886] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[23Feb2025 08:03:42.886] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[23Feb2025 08:03:42.887] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[23Feb2025 08:03:42.887] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[23Feb2025 08:03:42.890] [Worker-Main-1/DEBUG] [ModernFix/]: Structure realmrpg_quests:custom_mobs/villager_none is being run through DFU (hash 11a01e698c1b4d2fd9e8b872fac69f06817f0a9cd4d11cccc7256292a21a53b8), this will cause launch time delays
+[23Feb2025 08:03:43.008] [Worker-Main-1/DEBUG] [ModernFix/]: Structure realmrpg_quests:custom_mobs/villager_farmer is being run through DFU (hash 1e9ac9c74138d42bb61acaad99ae02c542ed43d223f79b848dfb7eeee861eb43), this will cause launch time delays
+[23Feb2025 08:03:43.024] [Worker-Main-1/DEBUG] [ModernFix/]: Structure realmrpg_quests:custom_mobs/villager_butcher is being run through DFU (hash f30efcfd060c8d02780f60233d3eb69d8cfed0fc10dd8f0a941e0fdf2435f68a), this will cause launch time delays
+[23Feb2025 08:03:43.035] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[23Feb2025 08:03:43.035] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[23Feb2025 08:03:44.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundNotDespawnEntity['[Lv.0] Dread Hound'/8630, l='ServerLevel[asdas]', x=-398.91, y=129.00, z=845.62] died: [Lv.0] Dread Hound was slain by TheMaster_Hand, the Chicken Chaser
+[23Feb2025 08:03:48.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PumpkinSpiritEntity['[Lv.0] Pumpkin Spirit'/8670, l='ServerLevel[asdas]', x=-396.42, y=129.00, z=872.55] died: [Lv.0] Pumpkin Spirit was slain by TheMaster_Hand, the Chicken Chaser
+[23Feb2025 08:04:00.749] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[23Feb2025 08:04:00.750] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[23Feb2025 08:04:00.750] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[23Feb2025 08:04:00.750] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[23Feb2025 08:04:00.750] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[23Feb2025 08:04:00.751] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[23Feb2025 08:04:20.124] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=69, y=72, z=725}
+[23Feb2025 08:04:20.297] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:20.866] [Worker-Main-2/DEBUG] [ModernFix/]: Structure paraglider:snowy_village_horned_statue is being run through DFU (hash 3993cdc43e481826ab3b4717f4baa738c0329e45bb96e9becc02db2e1e453aed), this will cause launch time delays
+[23Feb2025 08:04:21.418] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_center3 is being run through DFU (hash 7d14dcf37bf5d3c7a5160ff9e6449547ebec74e175e79f5f6eca8aa7b93f49d0), this will cause launch time delays
+[23Feb2025 08:04:21.422] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:village_swamp/swamp_village_center3 is being run through DFU (hash 81f9e4ac10adad98e699cca59749cda9c69beeb6b3b0395c939037f4f5dee4c0), this will cause launch time delays
+[23Feb2025 08:04:21.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMaster_Hand moved too quickly! -0.09987930299078585,0.0,-10.822241899399387
+[23Feb2025 08:04:34.098] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 15], discarding
+[23Feb2025 08:04:34.100] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 15], discarding
+[23Feb2025 08:04:34.101] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 15], discarding
+[23Feb2025 08:04:34.102] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 15], discarding
+[23Feb2025 08:04:34.104] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 15], discarding
+[23Feb2025 08:04:34.106] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [5, 15], discarding
+[23Feb2025 08:04:34.107] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [6, 15], discarding
+[23Feb2025 08:04:34.108] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [8, 15], discarding
+[23Feb2025 08:04:34.109] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [7, 15], discarding
+[23Feb2025 08:04:36.210] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[23Feb2025 08:04:36.210] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:36.211] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[23Feb2025 08:04:36.211] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:36.212] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[23Feb2025 08:04:36.212] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:36.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser has made the advancement [Goblin's Tyranny]
+[23Feb2025 08:04:36.303] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:36.308] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_spell_power'
+[23Feb2025 08:04:36.309] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:max_mana'
+[23Feb2025 08:04:36.310] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:37.881] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:37.914] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:37.915] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:37.916] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:37.916] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[23Feb2025 08:04:37.917] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:38.114] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:38.117] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:39.188] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:39.241] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:39.242] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:39.558] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:39.560] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:39.561] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[23Feb2025 08:04:39.691] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 75.0
+[23Feb2025 08:04:39.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['[Lv.15] Iron Golem'/5812, l='ServerLevel[asdas]', x=-324.92, y=113.00, z=827.79] died: [Lv.15] Iron Golem was shot by [Lv.0] Pillager
+[23Feb2025 08:04:43.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SiameseSkeletonsrightEntity['[Lv.0] Siamese Skeleton'/9656, l='ServerLevel[asdas]', x=-472.77, y=49.00, z=871.82] died: [Lv.0] Siamese Skeleton was slain by [Lv.0] Dread Hound
+[23Feb2025 08:04:45.067] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['[Lv.0] Farmer'/8763, l='ServerLevel[asdas]', x=-410.30, y=130.56, z=852.69] died, message: '[Lv.0] Farmer was slain by [Lv.0] Zombie Clown'
+[23Feb2025 08:04:45.067] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['[Lv.0] Farmer'/8763, l='ServerLevel[asdas]', x=-410.30, y=130.56, z=852.69] died: [Lv.0] Farmer was slain by [Lv.0] Zombie Clown
+[23Feb2025 08:04:57.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['[Lv.0] Pillager'/7577, l='ServerLevel[asdas]', x=-321.44, y=117.00, z=788.92] died: [Lv.0] Pillager was slain by [Lv.15] Iron Golem
+[23Feb2025 08:05:01.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['[Lv.0] Farmer'/8671, l='ServerLevel[asdas]', x=-421.53, y=128.94, z=849.46] died, message: '[Lv.0] Farmer was slain by [Lv.0] Zombie Clown'
+[23Feb2025 08:05:01.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['[Lv.0] Farmer'/8671, l='ServerLevel[asdas]', x=-421.53, y=128.94, z=849.46] died: [Lv.0] Farmer was slain by [Lv.0] Zombie Clown
+[23Feb2025 08:05:07.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieClownNotDespawnEntity['[Lv.0] Zombie Clown'/8288, l='ServerLevel[asdas]', x=-419.89, y=129.00, z=850.21] died: [Lv.0] Zombie Clown was slain by [Lv.0] Pumpkin Spirit
+[23Feb2025 08:05:08.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SkeletonThrasherNotDespawnEntity['[Lv.0] Skeleton Thrasher'/8135, l='ServerLevel[asdas]', x=-359.51, y=118.42, z=779.07] died: [Lv.0] Skeleton Thrasher was slain by [Lv.15] Iron Golem
+[23Feb2025 08:05:41.320] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:05:41.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.1] Bat'/10615, l='ServerLevel[asdas]', x=-146.20, y=-5.93, z=407.93] died: [Lv.1] Bat tried to swim in lava
+[23Feb2025 08:05:46.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundEntity['[Lv.0] Dread Hound'/9708, l='ServerLevel[asdas]', x=-455.21, y=39.00, z=923.45] died: [Lv.0] Dread Hound was slain by [Lv.0] Skeleton Thrasher
+[23Feb2025 08:06:09.872] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:06:09.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.1] Corpse Fish'/10901, l='ServerLevel[asdas]', x=-153.91, y=29.99, z=461.63] died: [Lv.1] Corpse Fish was slain by [Lv.1] Drowned
+[23Feb2025 08:06:22.768] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:06:22.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.1] Corpse Fish'/10899, l='ServerLevel[asdas]', x=-148.07, y=29.03, z=463.78] died: [Lv.1] Corpse Fish was slain by [Lv.1] Drowned
+[23Feb2025 08:06:23.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save asdas
+[23Feb2025 08:06:23.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete asdas
+[23Feb2025 08:06:33.422] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:06:33.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.1] Corpse Fish'/10900, l='ServerLevel[asdas]', x=-150.00, y=33.43, z=463.71] died: [Lv.1] Corpse Fish was slain by [Lv.1] Drowned
+[23Feb2025 08:06:36.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundNotDespawnEntity['[Lv.0] Dread Hound'/8503, l='ServerLevel[asdas]', x=-357.86, y=120.00, z=826.04] died: [Lv.0] Dread Hound was slain by [Lv.15] Iron Golem
+[23Feb2025 08:06:45.284] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:06:45.284] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.1] Corpse Fish'/10898, l='ServerLevel[asdas]', x=-150.73, y=33.19, z=465.97] died: [Lv.1] Corpse Fish was slain by [Lv.1] Drowned
+[23Feb2025 08:06:51.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/11126, l='ServerLevel[asdas]', x=-348.10, y=120.00, z=836.16] died: [Lv.0] Skeleton was slain by [Lv.15] Iron Golem
+[23Feb2025 08:06:52.517] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BabySkeletonMinionEntity['[Lv.0] Baby Skeleton'/11143, l='ServerLevel[asdas]', x=-352.12, y=120.00, z=838.64] died: [Lv.0] Baby Skeleton was slain by [Lv.0] Dread Hound
+[23Feb2025 08:06:52.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BabySkeletonMinionEntity['[Lv.0] Baby Skeleton'/11144, l='ServerLevel[asdas]', x=-349.76, y=120.00, z=838.30] died: [Lv.0] Baby Skeleton was slain by [Lv.15] Iron Golem
+[23Feb2025 08:06:53.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['[Lv.0] Skeleton'/11125, l='ServerLevel[asdas]', x=-351.06, y=120.00, z=838.21] died: [Lv.0] Skeleton was slain
+[23Feb2025 08:06:54.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BonescallerEntity['[Lv.0] Bonescaller'/11124, l='ServerLevel[asdas]', x=-353.02, y=120.00, z=842.46] died: [Lv.0] Bonescaller was slain by [Lv.0] Dread Hound
+[23Feb2025 08:06:55.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DecrepitSkeletonEntity['[Lv.0] Decrepit Skeleton'/11127, l='ServerLevel[asdas]', x=-355.50, y=120.00, z=846.50] died: [Lv.0] Decrepit Skeleton was slain by [Lv.0] Dread Hound
+[23Feb2025 08:07:01.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.0] Zombie'/11117, l='ServerLevel[asdas]', x=-308.03, y=118.32, z=785.83] died: [Lv.0] Zombie was slain by [Lv.15] Iron Golem
+[23Feb2025 08:07:09.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundNotDespawnEntity['[Lv.0] Dread Hound'/8504, l='ServerLevel[asdas]', x=-363.45, y=120.00, z=849.40] died: [Lv.0] Dread Hound was slain by [Lv.15] Iron Golem
+[23Feb2025 08:07:14.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Brayannashe26, the Chicken Chaser: Teleported Brayannashe26, the Chicken Chaser to TheMaster_Hand, the Chicken Chaser]
+[23Feb2025 08:07:21.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DreadHoundNotDespawnEntity['[Lv.0] Dread Hound'/8583, l='ServerLevel[asdas]', x=-380.34, y=124.00, z=850.62] died: [Lv.0] Dread Hound was slain by [Lv.15] Iron Golem
+[23Feb2025 08:07:40.215] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:07:40.215] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.1] Corpse Fish'/11310, l='ServerLevel[asdas]', x=-201.37, y=53.03, z=469.01] died: [Lv.1] Corpse Fish was slain by [Lv.1] Drowned
+[23Feb2025 08:07:49.614] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:07:49.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.1] Corpse Fish'/11309, l='ServerLevel[asdas]', x=-200.67, y=50.00, z=473.66] died: [Lv.1] Corpse Fish was slain by [Lv.1] Drowned
+[23Feb2025 08:07:56.466] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:07:56.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['[Lv.1] Drowned'/11278, l='ServerLevel[asdas]', x=-200.45, y=51.76, z=473.69] died: [Lv.1] Drowned was slain by [Lv.1] Corpse Fish
+[23Feb2025 08:08:07.667] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:08:07.667] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.1] Corpse Fish'/11308, l='ServerLevel[asdas]', x=-203.80, y=55.68, z=464.31] died: [Lv.1] Corpse Fish was slain by [Lv.1] Drowned
+[23Feb2025 08:08:20.168] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:08:20.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CorpseFishEntity['[Lv.1] Corpse Fish'/11443, l='ServerLevel[asdas]', x=-200.55, y=54.01, z=469.70] died: [Lv.1] Corpse Fish was slain by [Lv.1] Drowned
+[23Feb2025 08:08:29.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Survival Mode]
+[23Feb2025 08:08:47.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Creative Mode]
+[23Feb2025 08:09:21.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Survival Mode]
+[23Feb2025 08:09:33.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser is bleeding. TheMaster_Hand, the Chicken Chaser was shot by [Lv.1] Ratman
+[23Feb2025 08:09:45.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser is bleeding. TheMaster_Hand, the Chicken Chaser was shot by [Lv.1] Ratman
+[23Feb2025 08:09:49.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Creative Mode]
+[23Feb2025 08:10:07.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Survival Mode]
+[23Feb2025 08:10:08.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser is bleeding. TheMaster_Hand, the Chicken Chaser was slain by [Lv.1] Zombie
+[23Feb2025 08:10:17.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMaster_Hand, the Chicken Chaser: Set own game mode to Creative Mode]
+[23Feb2025 08:10:20.814] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:10:20.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.1] Zombie'/11745, l='ServerLevel[asdas]', x=-158.46, y=98.00, z=403.30] died: [Lv.1] Zombie was slain by Brayannashe26, the Chicken Chaser
+[23Feb2025 08:10:23.918] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:10:23.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['[Lv.1] Zombie'/11746, l='ServerLevel[asdas]', x=-157.70, y=98.00, z=402.30] died: [Lv.1] Zombie was slain by Brayannashe26, the Chicken Chaser
+[23Feb2025 08:10:31.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMaster_Hand lost connection: Disconnected
+[23Feb2025 08:10:31.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMaster_Hand, the Chicken Chaser left the game
+[23Feb2025 08:10:32.799] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:10:32.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RatmanEntity['[Lv.1] Ratman'/11981, l='ServerLevel[asdas]', x=-144.50, y=95.00, z=389.50] died: [Lv.1] Ratman was slain by Brayannashe26, the Chicken Chaser
+[23Feb2025 08:11:01.466] [Server thread/INFO] [tn.mbs.ascendantmobs.AscendantMobsMod/]: 5.0
+[23Feb2025 08:11:01.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['[Lv.1] Bat'/11677, l='ServerLevel[asdas]', x=-140.26, y=-6.24, z=410.86] died: [Lv.1] Bat burned to death
